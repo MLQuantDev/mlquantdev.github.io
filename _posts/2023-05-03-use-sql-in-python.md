@@ -1,3 +1,9 @@
+---
+layout: post
+title: How to use SQL files in Python code
+tags: [python, sql]
+---
+
 To store SQL statement strings in separate files, you can create a new folder called `sql_queries` and store each SQL statement in a separate `.sql` file. You can use placeholders for formatted variables in these SQL files.
 
 For example, if you have a code base structure like this:
