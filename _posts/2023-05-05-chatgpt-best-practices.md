@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Effective Strategies for Prompting ChatGPT to Write Code: Tips, Templates, and Examples'
+title: Effective Strategies for Prompting ChatGPT to Write Code\: Tips, Templates, and Examples
 tags: [ChatGPT]
 comments: true
 ---
