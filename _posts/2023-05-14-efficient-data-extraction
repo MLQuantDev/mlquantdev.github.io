@@ -1,7 +1,8 @@
 ---
+layout: post
 title: Efficient Data Extraction from SQL Server into Pandas DataFrame with SQLAlchemy
-date: 2023-05-15
 tags: [Python, SQL, SQLAlchemy, Pandas, Data Extraction]
+comments: true
 ---
 
 In this post, we will explore how to efficiently extract data from an MS SQL Server database into a pandas DataFrame using SQLAlchemy.
