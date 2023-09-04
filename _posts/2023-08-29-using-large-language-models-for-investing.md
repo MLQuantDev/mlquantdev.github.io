@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bridgewater's AI Strategy: Using Large Language Models for Investment Decisions
+title: How Bridgewater Is Using Large Language Models For Investment Decisions
 tags: [ChatGPT, LLM, Investing, Reasoning Engine]
 ---
 Bridgewater Associates, one of the world's largest hedge funds, has been an early adopter of artificial intelligence and machine learning. In particular, the firm is now experimenting with large language models like GPT-3 to enhance its investment process.
